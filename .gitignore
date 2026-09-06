@@ -8,4 +8,5 @@ customer_churn.db
 *.xlsx
 *.xls
 *.db
+*.csv
 .ipynb_checkpoints/
