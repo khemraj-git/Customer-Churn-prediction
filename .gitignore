@@ -1,0 +1,11 @@
+# Ignore specific files
+Data Analytics Project -Churn Analysis Report.pdf
+exported_churn_Data.xlsx
+customer_churn.db
+
+# Alternatively, ignore all PDF, Excel, and DB files automatically:
+*.pdf
+*.xlsx
+*.xls
+*.db
+.ipynb_checkpoints/
